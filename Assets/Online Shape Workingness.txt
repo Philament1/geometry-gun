@@ -1,0 +1,32 @@
+Arrow - Not splitting
+Arrowhead - Working
+Castle - Broken
+Chevron - Working
+Circle - Working
+Cloud - Broken
+Crescent - Working
+Diamond - Bullets not moving
+Heart - Broken
+Heptagon - Square showing as circle (but behaving correctly); Healing not syncing
+Hexagon - Broken
+Hourglass - Shield not syncing
+Kite - Bullets not moving
+Lens - Broken
+Lighting - Broken
+Octagan - Bullets not moving
+Oval - Only one stream of bullet
+Parallelogram - ?
+Pentagon - Working (Good enough)
+Plus - Working
+Rectangle - Health loss when shooting not synced
+Rocket - ?
+Sector - Broken
+Semicirlce - Only one stream of bullet
+Square - Working
+Star3 - Bullets not destroying
+Star4 -  Broken
+Star5 - ?
+Teardrop - Broken
+Trapezium - Lasers not apperaring on other client
+Triangle - Working
+X-Shape - Broken
