@@ -9,4 +9,6 @@ W A S D LShift
 Player2 controls:
 Arrow keys, Enter
 
+Recommended: turn your volume down when you start up the build/go to settings and turn music off
+
 Developed in C#, built in Unity Engine.
